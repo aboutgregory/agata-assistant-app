@@ -14,6 +14,11 @@ O **Ágata Assistant** é uma Single Page Application (SPA) desenvolvida para tr
 
 Nossa solução atua em colaboração com as ferramentas digitais do HC (em breve, para outros sistemas médicos) atuando como uma assistente do próprio médico, facilitando para os próprios pacientes participem das teleconsultas, mas também facilitando para que os acompanhantes estejam prontos nos momentos das consultas - já que a solução oferece lembretes personalizados para cada tipo de consulta e para cada fase da jornada do tratamento, podendo ser preparada automaticamente ou até manualmente pela equipe médica.
 
+## Oportunidade
+Dados mostram uma oportunidade gigantesca de negócio, necessitando de um ponto - uma assistente - que facilitasse o acesso dos pacientes às teleconsultas e à toda a jornada de tratamento, já que o acesso à internet não é o principal dos problemas e sim a dificuldade de acessar aos sistemas da equipe médica. Assim, nasceu **Ágata**.
+
+Segundo o IBGE, entre as pessoas com mais de 60 anos, enquanto a proporção de quem usava a internet em 2019 estava em 44,8% quando chega em 2023 a proporção ficou em 66% (22,5 milhões), uma expansão de 21,2 pontos percentuais. Em 2016, no entanto, menos de um em cada quatro (24,7%) idosos acessava a rede. Este grupo é o que mais cresce, proporcionalmente, desde 2019, sobre o contato com a internet. 
+
 ---
 
 ## 🎯 Funcionalidades Atuais do MVP
