@@ -2,7 +2,7 @@
 
 import React from 'react';
 import AppRoutes from './routes/AppRoutes';
-import './styles/index.css'; // Importa o CSS do Tailwind
+import './index.css'; // Importa o CSS do Tailwind
 
 const App: React.FC = () => {
   // Apenas renderiza o gerenciador de rotas da SPA

@@ -1,3 +1,4 @@
+import { TreatmentArea } from './consultas';
 /**
  * Define as áreas de tratamento para categorização.
  */
