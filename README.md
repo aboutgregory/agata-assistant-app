@@ -12,6 +12,8 @@ O **Ágata Assistant** é uma Single Page Application (SPA) desenvolvida para tr
 ## Detalhamento da Solução
 **Ágata Assistant**, na prática, é a assistente digital para a equipe médica que atua como uma PONTE de contato que prepara o paciente (e seus acompanhantes) para o momento da consulta.
 
+Nossa solução atua em colaboração com as ferramentas digitais do HC (em breve, para outros sistemas médicos) atuando como uma assistente do próprio médico, facilitando para os próprios pacientes participem das teleconsultas, mas também facilitando para que os acompanhantes estejam prontos nos momentos das consultas - já que a solução oferece lembretes personalizados para cada tipo de consulta e para cada fase da jornada do tratamento, podendo ser preparada automaticamente ou até manualmente pela equipe médica.
+
 ---
 
 ## 🎯 Funcionalidades Atuais do MVP
