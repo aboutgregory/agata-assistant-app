@@ -57,7 +57,7 @@ Segundo o IBGE, entre as pessoas com mais de 60 anos, enquanto a proporção de 
 | Props | Uso obrigatório em `NotificationCard` para receber os dados (`IAppointment`). |
 | Rotas | Rotas estáticas (`/`) e dinâmicas (`/treatment/:id`) implementadas. |
 
-### 🚫 Restrições Cumpridas
+### 🚫 Restrições
 
 - **Axios:** Não utilizado.  
 - **BootStrap/Outros:** Estritamente proibido e não utilizado, apenas TailwindCSS.  
