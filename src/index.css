@@ -2,17 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Montserrat:wght@400;600;700&display=swap');
 
 /* 2. Diretivas do Tailwind CSS */
-@tailwind base;
-@tailwind components;
 @tailwind utilities;
 
 /* 3. Estilos Base (Opcional, mas recomendado para aplicar fontes globais) */
 @layer base {
   body {
-    /* Define as fontes globais, usando as customizações do tailwind.config.js */
     font-family: 'Inter', sans-serif;
-    color: theme('colors.agata-navy');
-    background-color: theme('colors.agata-baby-blue');
+    color: #1f2a45;          /* agata-navy */
+    background-color: #d0e7ff; /* agata-baby-blue */
   }
   h1, h2, h3, h4 {
     font-family: 'Montserrat', sans-serif;
