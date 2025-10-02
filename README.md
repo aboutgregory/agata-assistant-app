@@ -9,6 +9,9 @@ O **Ágata Assistant** é uma Single Page Application (SPA) desenvolvida para tr
 
 **Objetivo Central:** Reduzir drasticamente o absentismo em teleconsultas, simplificando o processo de conexão para o mínimo de cliques possível (simulação de "um toque").
 
+## Detalhamento da Solução
+**Ágata Assistant**, na prática, é a assistente digital para a equipe médica que atua como uma PONTE de contato que prepara o paciente (e seus acompanhantes) para o momento da consulta.
+
 ---
 
 ## 🎯 Funcionalidades Atuais do MVP
